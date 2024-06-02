@@ -1,0 +1,189 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* #############header styling###################### */
+header {
+   
+    width: 100%;
+    height: auto;
+    color: #F9FAF8;
+    display: flex;
+    justify-content: space-around;
+    background-color:  #1F2937;
+    margin-top: auto;
+    padding-top: 10px;
+    padding-bottom: 100px;
+
+    
+}
+
+li{
+
+list-style-type: none ; 
+
+    
+    color: #E5E7EB;
+    font-size: 18px;   
+
+}
+ul{
+    display:flex ;
+    gap:10px;
+    
+}
+h5{
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+/* ########################main Styling################## */
+
+
+.Bob{
+
+    background-color:  #1F2937;
+    display: flex;
+    justify-content:space-around;
+    width: 100%;
+    padding: 0px 220px;
+    
+   
+    
+
+}
+p{
+    font-size: 12px;
+    font-weight: bolder;
+    color: #F9FAF8;
+    display: block;
+    
+}
+button{
+    
+    color: white;
+    border-radius: 8px;
+    font-size: 16px;
+    padding: 5px;
+    color: white;
+    background-color:#3882f6;
+    cursor: pointer;
+    width: 100px;
+    border-color: #E5E7EB;
+    margin-top: 10px;
+   
+}
+button:hover{
+    background-color: rgb(5, 63, 31);
+
+}
+h3{
+    font-size: 48px;
+    color: #F9FAF8;
+}
+.Image img{
+    width: 450px;
+    
+
+}
+/* #####################section Styling###### */
+.ab{
+    
+    text-align: center;
+}
+.bc{
+    text-align: center;
+    font-size: 38px;
+    color: black;
+    padding-top:  40px;
+}
+.box{
+    width: 150px;
+    height: 150px;
+    border-radius: 15px;
+    
+}
+#box1{
+    background-color: orchid;
+}
+#box2{
+    background-color: rgb(112, 183, 218);
+}
+#box3{
+    background-color: rgb(218, 112, 218);
+}
+#box4{
+    background-color: rgb(240, 171, 81);
+}
+.container{
+    display: flex;
+    justify-content:center;
+    gap: 20px;
+    padding-top: 40px;
+    
+
+}
+.cd{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding: 15px;
+    
+
+}
+.cd p{
+    color: black;
+    font-size: 14px;
+    text-align: justify;
+}
+.ef{
+    background-color: lightgray;
+    padding: 40px;
+
+}
+.ef div{
+    width: 40%;
+    margin: auto;
+    text-align: justify;
+   
+}
+.ef p{
+   color: black;
+   text-align: end;
+}
+.gh p{
+    
+    
+    display: inline;
+}
+.gh button{
+    
+    padding: 5px 10px ;
+    
+    
+}
+.gh {
+    width: 50%;
+    margin: auto;
+    background-color: #0e64ee;
+    border-radius: 8px;
+    text-align: center;
+    height: 70px;
+    padding: 12px;
+
+}
+footer{
+    background-color: #1F2937;
+    height: 50px;
+    color: #E5E7EB;
+    text-align: center;
+    padding: 20px;
+
+}
+section{
+    padding: 30px;
+
+}
+
